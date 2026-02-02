@@ -11,7 +11,7 @@ export function Footer() {
           <div>
             <h3 className="text-xl font-bold mb-4">سنڌي خبر</h3>
             <p className="text-muted-foreground text-sm">
-              روزاني سنڌي خبرون ⹁ سياست ⹁ کيل ⹁ ثقافت ⹁ تعليم ⹁ تفريح
+              روزاني سنڌي خبرون ⹁ سياست ⹁ رانديون ⹁ ثقافت ⹁ تعليم ⹁ تفريح
             </p>
           </div>
 
@@ -47,8 +47,8 @@ export function Footer() {
                 </Link>
               </li>
               <li>
-                <Link href="/categories/کيل" className="text-muted-foreground hover:text-foreground">
-                  کيل
+                <Link href="/categories/رانديون" className="text-muted-foreground hover:text-foreground">
+                  رانديون
                 </Link>
               </li>
               <li>

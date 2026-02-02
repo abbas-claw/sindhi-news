@@ -40,7 +40,7 @@ function getSampleArticles(): Article[] {
       slug: "pakistan-cricket-captain",
       content: "پاڪستان ڪرڪيٽ بورڊ نئين ڪپتان چونڊ ڇڏي آهي. نئين ڪپتان چونڊجڻ بعد ٽيم جي تربيت شروع ٿي چڪي آهي. ڪرڪيٽ ماهر چوندا آهن ته نئين ڪپتان جي آمد سان ٽيم ۾ نيون تبديليون اينديون.",
       excerpt: "پاڪستان ڪرڪيٽ بورڊ نئين ڪپتان چونڊ ڇڏي آهي...",
-      category: "کيل",
+      category: "رانديون",
       image_url: "https://images.unsplash.com/photo-1531415074968-036ba1b575da?w=800",
       published_at: new Date(Date.now() - 86400000).toISOString(),
       updated_at: new Date(Date.now() - 86400000).toISOString(),

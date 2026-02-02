@@ -16,7 +16,7 @@ export async function GET() {
   <channel>
     <title>سنڌي خبر - Sindhi News Daily</title>
     <link>https://sindhi-news.vercel.app</link>
-    <description>روزاني سنڌي خبرون ⹁ سياست ⹁ کيل ⹁ ثقافت ⹁ تعليم ⹁ تفريح</description>
+    <description>روزاني سنڌي خبرون ⹁ سياست ⹁ رانديون ⹁ ثقافت ⹁ تعليم ⹁ تفريح</description>
     <language>sd</language>
     <lastBuildDate>${new Date().toUTCString()}</lastBuildDate>
     <atom:link href="https://sindhi-news.vercel.app/api/rss" rel="self" type="application/rss+xml" />

@@ -25,14 +25,14 @@ export interface ArticleInput {
 
 export type Category = 
   | "سياست" 
-  | "کيل" 
+  | "رانديون" 
   | "ثقافت" 
   | "تعليم" 
   | "تفريح";
 
 export const CATEGORIES: Category[] = [
   "سياست",
-  "کيل", 
+  "رانديون", 
   "ثقافت",
   "تعليم",
   "تفريح"

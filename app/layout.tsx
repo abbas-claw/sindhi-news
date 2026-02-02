@@ -10,11 +10,11 @@ const notoSansArabic = Noto_Sans_Arabic({
 
 export const metadata: Metadata = {
   title: "سنڌي خبر - Sindhi News Daily",
-  description: "روزاني سنڌي خبرون ⹁ سياست ⹁ کيل ⹁ ثقافت ⹁ تعليم ⹁ تفريح",
+  description: "روزاني سنڌي خبرون ⹁ سياست ⹁ رانديون ⹁ ثقافت ⹁ تعليم ⹁ تفريح",
   keywords: "سنڌي خبرون⹁ Sindhi News⹁ سنڌ⹁ Pakistan⹁ خبرون",
   openGraph: {
     title: "سنڌي خبر - Sindhi News Daily",
-    description: "روزاني سنڌي خبرون ⹁ سياست ⹁ کيل ⹁ ثقافت ⹁ تعليم ⹁ تفريح",
+    description: "روزاني سنڌي خبرون ⹁ سياست ⹁ رانديون ⹁ ثقافت ⹁ تعليم ⹁ تفريح",
     type: "website",
     locale: "sd",
   },
