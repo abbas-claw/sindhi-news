@@ -87,3 +87,4 @@ Make sure to add environment variables in Vercel dashboard.
 ## License
 
 MIT
+# Deployment trigger
