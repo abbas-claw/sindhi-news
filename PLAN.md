@@ -52,5 +52,8 @@ Site URL: https://sindhi-news.vercel.app
 - Daily: Generate images if needed
 - Weekly: Cleanup old previews
 
+## Article Count
+**Total:** 28 articles
+
 ## Last Updated
-2026-02-03 05:00 AM PKT
+2026-02-03 10:45 AM PKT
