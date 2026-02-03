@@ -37,7 +37,7 @@ const articles = [
     excerpt: "جماعت اسلامي جي اميرحافظ نعيم الرحمٰن اعلان ڪيو آهي ته 14 فيبروري کان سنڌ اسيمبلي جي ٻاهران دوامي ڌرڻو ڏنو ويندو...",
     category: "سياست",
     image_url: "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?w=800",
-    author: "Abbas",
+    author: "عباس",
     featured: true,
   },
   {
@@ -50,7 +50,7 @@ const articles = [
     excerpt: "سنڌ حڪومت اعلان ڪيو آهي ته شب برات جي مناسبت سان 4 فيبروري کي تعليمي اداري بند رهندا...",
     category: "تعليم",
     image_url: "https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=800",
-    author: "Abbas",
+    author: "عباس",
     featured: false,
   },
   {
@@ -63,7 +63,7 @@ const articles = [
     excerpt: "وفاقي حڪومت اعلان ڪيو آهي ته 5 فيبروري يوم يڪجهتي ڪشمير تي سرڪاري رخصت هوندي...",
     category: "سياست",
     image_url: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800",
-    author: "Abbas",
+    author: "عباس",
     featured: false,
   },
 
@@ -80,7 +80,7 @@ const articles = [
     excerpt: "پاڪستان حڪومت اعلان ڪيو آهي ته ڪرڪيٽ ٽيم ورلڊ ڪپ ۾ شامل ٿيندي پر ڀارت سان ميچ نه کيڏيندي...",
     category: "کيل",
     image_url: "https://images.unsplash.com/photo-1531415074968-036ba1b575da?w=800",
-    author: "Abbas",
+    author: "عباس",
     featured: true,
   },
 
@@ -97,7 +97,7 @@ const articles = [
     excerpt: "ايلون مسڪ پنهنجي اي آءِ اسٽارٽ اپ ايڪس اي آئي کي اسپيس ايڪس ۾ ضم ڪيو. هي 1.25 ٽريلين ڊالر جي آءِ پي او ٿي سگهي ٿي...",
     category: "ٽيڪنالاجي",
     image_url: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-    author: "Abbas",
+    author: "عباس",
     featured: true,
   },
   {
@@ -114,7 +114,7 @@ const articles = [
     excerpt: "2026 ۾ اي آءِ هائيپ کان عمليت ڏانهن منتقل ٿيندو. گوگل ⹁ اوپن اي آءِ ⹁ ۽ نيون اسٽارٽ اپس نوان ماڊل لانچ ڪري رهيون آهن...",
     category: "ٽيڪنالاجي",
     image_url: "https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800",
-    author: "Abbas",
+    author: "عباس",
     featured: false,
   },
   {
@@ -129,7 +129,7 @@ const articles = [
     excerpt: "پاڪستاني اسٽارٽ اپس 2025 ۾ 74 ملين ڊالر کان مٿي فنڊنگ حاصل ڪيا. 2026 ۾ اهو رجحان جاري رهڻ جي اميد...",
     category: "ٽيڪنالاجي",
     image_url: "https://images.unsplash.com/photo-1559136555-9303baea8ebd?w=800",
-    author: "Abbas",
+    author: "عباس",
     featured: false,
   },
 
@@ -144,7 +144,7 @@ const articles = [
     excerpt: "مشهور سنڌي فنڪار نئون البم رليز ڪيو آهي جنهن ۾ روايتي موسيقي کي جديد انداز سان پيش ڪيو ويو...",
     category: "تفريح",
     image_url: "https://images.unsplash.com/photo-1514525253161-7a46d19cd819?w=800",
-    author: "Abbas",
+    author: "عباس",
     featured: false,
   },
 ];
