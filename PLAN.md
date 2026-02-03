@@ -20,10 +20,13 @@
 - [ ] Translation pipeline
 
 ### Phase 3: Deployment
-- [ ] Vercel deployment
-- [ ] Turso database setup
-- [ ] Environment variables
+- [x] Vercel deployment (auto-deploy from GitHub)
+- [ ] Turso database setup (NEEDED for production)
+- [ ] Environment variables (TURSO_DATABASE_URL, TURSO_AUTH_TOKEN)
 - [ ] Custom domain (optional)
+
+**Note:** Local SQLite works for dev. Production needs Turso cloud DB.
+Site URL: https://sindhi-news.vercel.app
 
 ## Categories
 | Sindhi | English | Slug |
