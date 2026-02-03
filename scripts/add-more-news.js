@@ -34,7 +34,7 @@ const articles = [
     excerpt: "آءِ ايس پي آر جي مطابق بلوچستان ۾ ٽن ڏينهن ۾ 177 دهشتگرد ختم ڪيا ويا آهن...",
     category: "سياست",
     image_url: "https://images.unsplash.com/photo-1453873531674-2151bcd01707?w=800",
-    author: "سنڌي خبر",
+    author: "Abbas",
     featured: true,
   },
   
@@ -49,7 +49,7 @@ const articles = [
     excerpt: "گل پلازا آتشزدگي بعد شهري ذميوارن خلاف ڪارروائي جو مطالبو ڪري رهيا آهن...",
     category: "سياست",
     image_url: "https://images.unsplash.com/photo-1486551937199-baf066858de7?w=800",
-    author: "سنڌي خبر",
+    author: "Abbas",
     featured: false,
   },
   
@@ -64,7 +64,7 @@ const articles = [
     excerpt: "محڪمي موسميات جي مطابق ڪراچي ۾ سردي گهٽ ٿيندي ۽ سياري جو موسم ختم ٿيڻ لڳو...",
     category: "ثقافت",
     image_url: "https://images.unsplash.com/photo-1504253163759-c23fccaebb55?w=800",
-    author: "سنڌي خبر",
+    author: "Abbas",
     featured: false,
   },
   
@@ -79,7 +79,7 @@ const articles = [
     excerpt: "انڊس اي آءِ ويڪ 9-15 فيبروري تائين هلندو. مصنوعي ذهانت کي عام ماڻهن تائين پهچائڻ جو مقصد...",
     category: "ٽيڪنالاجي",
     image_url: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800",
-    author: "سنڌي خبر",
+    author: "Abbas",
     featured: true,
   },
   
@@ -94,7 +94,7 @@ const articles = [
     excerpt: "لاهور ۾ بسنت جو تيواهار ملهايو ويندو. وزيراعلٰي پنجاب رخصت جو اعلان ڪيو آهي...",
     category: "ثقافت",
     image_url: "https://images.unsplash.com/photo-1609709295948-17d77cb2a69b?w=800",
-    author: "سنڌي خبر",
+    author: "Abbas",
     featured: false,
   },
   
@@ -109,7 +109,7 @@ const articles = [
     excerpt: "Oracle هن سال 50 بلين ڊالر اي آءِ انفراسٽرڪچر لاءِ جمع ڪرڻ جو ارادو رکي ٿي...",
     category: "ٽيڪنالاجي",
     image_url: "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
-    author: "سنڌي خبر",
+    author: "Abbas",
     featured: false,
   },
   
@@ -124,7 +124,7 @@ const articles = [
     excerpt: "قزاقستان صدر پهريون ڀيرو پاڪستان آيا آهن. تجارت ۽ ڪنيڪٽويٽي تي ڳالهيون ٿينديون...",
     category: "سياست",
     image_url: "https://images.unsplash.com/photo-1521790361543-f645cf042ec4?w=800",
-    author: "سنڌي خبر",
+    author: "Abbas",
     featured: false,
   },
 ];
